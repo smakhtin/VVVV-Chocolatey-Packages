@@ -2,7 +2,6 @@ VVVV-Chocolatey-Packages
 ========================
 
 VVVV, addonpack and some plugins (in the future) packages for [Chocolatey](http://chocolatey.org). *(Chocolatey is a package manager - apt-get for Windows)*
----
 
 ##How to use it :
 
