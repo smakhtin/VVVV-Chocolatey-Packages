@@ -4,8 +4,8 @@
     <id>vvvv-addonpack</id>
     <title>vvvv addonpack</title>
     <version>28.1.01</version>
-    <authors>Vadim Smakhtin</authors>
-    <owners>vvvv comminity</owners>
+    <authors>vvvv community, vvvv group</authors>
+    <!-- <owners></owners> -->
     <summary>Convenience pack of most available vvvv addons</summary>
     <description>vvvv itself is not open source, but it offers different open interfaces for people to write their own nodes:
 Plugins - most general interface for writing multipurpose nodes
