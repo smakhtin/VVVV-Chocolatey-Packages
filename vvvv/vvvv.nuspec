@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vvvv</id>
+    <title>vvvv</title>
+    <version>28.1</version>
+    <authors>Vadim Smakhtin</authors>
+    <owners>vvvv group</owners>
+    <summary>vvvv - a multipurpose toolkit</summary>
+    <description>vvvv is a hybrid graphical/textual programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.</description>
+    <projectUrl>http://vvvv.org</projectUrl>
+    <tags>vvvv node graphicall programming</tags>
+    <copyright>vvvv group</copyright>
+    <licenseUrl>http://vvvv.org/licensing</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
