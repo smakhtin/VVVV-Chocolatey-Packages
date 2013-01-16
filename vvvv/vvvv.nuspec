@@ -3,7 +3,7 @@
   <metadata>
     <id>vvvv</id>
     <title>vvvv</title>
-    <version>28.1</version>
+    <version>29.0</version>
     <authors>vvvv group</authors>
     <!-- <owners>vvvv group</owners> -->
     <summary>vvvv - a multipurpose toolkit</summary>
@@ -14,9 +14,12 @@
     <licenseUrl>http://vvvv.org/licensing</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png</iconUrl>
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
+    <dependencies>
+      <dependency id="vcredist2008" version="9.0.30729.1" />
+      <dependency id="vcredist2010" version="10.0.40219.1" />
+      <!-- DirectX 9.0c - not yet found as package <dependency id="" version="" /> -->
+      <!-- dot net 4.0 Redistributable - not yet found as package <dependency id="" version="" /> -->
+	</dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
