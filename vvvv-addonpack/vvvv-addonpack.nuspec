@@ -3,7 +3,7 @@
   <metadata>
     <id>vvvv-addonpack</id>
     <title>vvvv addonpack</title>
-    <version>28.1.01</version>
+    <version>29.0</version>
     <authors>vvvv community, vvvv group</authors>
     <!-- <owners></owners> -->
     <summary>Convenience pack of most available vvvv addons</summary>
@@ -22,7 +22,7 @@ All contributed addons are available via a separately downloadable addonpack in 
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png</iconUrl>
     <dependencies>
-      <dependency id="vvvv" version="28.1"/>
+      <dependency id="vvvv" version="29.0"/>
     </dependencies>
     <releaseNotes></releaseNotes>
   </metadata>
