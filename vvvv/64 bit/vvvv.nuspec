@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>vvvv.64</id>
+    <id>vvvv.x64</id>
     <title>vvvv (64 bit)</title>
     <version>29.0</version>
     <authors>vvvv group</authors>

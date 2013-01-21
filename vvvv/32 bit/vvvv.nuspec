@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>vvvv.32</id>
+    <id>vvvv.x86</id>
     <title>vvvv (32 bit)</title>
     <version>29.0</version>
     <authors>vvvv group</authors>
